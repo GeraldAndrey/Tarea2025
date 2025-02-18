@@ -1,4 +1,4 @@
-package com.tienda_JDVR;
+package com.tienda_GAMS;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
